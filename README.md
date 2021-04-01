@@ -1,6 +1,9 @@
 # COVID data Tuebingen
 
-source: [Landratsamt Tübingen](https://www.kreis-tuebingen.de/17094149.html)
+
+![plot](https://raw.githubusercontent.com/FrankGrimm/COVID19-Data-LKTuebingen/main/tuebingen_since_02_2021.png)
+
+data: [Landratsamt Tübingen](https://www.kreis-tuebingen.de/17094149.html)
 
 *Disclaimer*: This data is automatically extracted from the PDFs uploaded by the Landratsamt and published as-is. Should you encounter errors please open an issue in the repository.
 
